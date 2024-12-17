@@ -5,7 +5,7 @@
 I am a Computer Science student at California State University, Fullerton (CSUF), and I expect to graduate in 2028.
 
 ## My GitHub Profile
- Rc859364.github.io`
+ Rc859364.github.io
 
 ## Favorite CPSC 120L Labs
 
